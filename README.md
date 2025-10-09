@@ -63,3 +63,7 @@ This tool uses Basic authentication with your email and API token, as specified 
 - Read filters
 - Search issues
 - Access the specific projects/issues in your filter
+
+### How to get Jira REST API access token?
+
+Go to Account settings -> Security -> Create and manage API tokens: https://id.atlassian.com/manage-profile/security/api-tokens
