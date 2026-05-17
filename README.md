@@ -67,3 +67,7 @@ This tool uses Basic authentication with your email and API token, as specified 
 ### How to get Jira REST API access token?
 
 Go to Account settings -> Security -> Create and manage API tokens: https://id.atlassian.com/manage-profile/security/api-tokens
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
